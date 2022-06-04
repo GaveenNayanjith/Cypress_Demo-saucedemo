@@ -1,0 +1,22 @@
+{
+  "name": "cypress_demo",
+  "version": "1.0.0",
+  "description": "cypress demo for pom",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cypress",
+    "page",
+    "object",
+    "model",
+    "example",
+    "project"
+  ],
+  "author": "Gaveen Nayanajith",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^10.0.2"
+  }
+}
